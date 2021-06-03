@@ -56,7 +56,7 @@ sections:
     grid_gap_vert: medium
     background_color: none
     actions:
-      - label: lorem-ipsum
+      - label: Read more
         url: '#'
         style: primary
         has_icon: true
